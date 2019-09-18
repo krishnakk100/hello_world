@@ -1,3 +1,3 @@
 # hello_world
-Getting started with Github
+Getting started
 Hi, I am Krishna. Hope you are having a great time...:)
